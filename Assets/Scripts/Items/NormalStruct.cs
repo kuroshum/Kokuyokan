@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NormalStruct : MonoBehaviour {
-
+      
     /*
      * アイテムがあるか調べられるオブジェクト
      */
